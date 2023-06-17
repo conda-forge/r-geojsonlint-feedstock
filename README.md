@@ -1,11 +1,11 @@
-About r-geojsonlint
-===================
+About r-geojsonlint-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-geojsonlint-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ropensci/geojsonlint
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-geojsonlint-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools for linting 'GeoJSON'. Includes tools for interacting with the online tool <http://geojsonlint.com>, the 'Javascript' library 'geojsonhint' (<https://www.npmjs.com/package/geojsonhint>), and validating against a 'GeoJSON' schema via the 'Javascript' library (<https://www.npmjs.com/package/is-my-json-valid>). Some tools work locally while others require an internet connection.
 
